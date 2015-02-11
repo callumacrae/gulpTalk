@@ -1,6 +1,6 @@
 # Demo from my talk on Gulp
 
-These are the files I used yesterday in my talk on Gulp.
+These are the files I used in the demo in my talk on Gulp.
 
 To install, make sure you have Gulp 4 installed globally:
 
