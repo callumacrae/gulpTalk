@@ -15,5 +15,5 @@ gulp.task('sass', function () {
 });
 
 gulp.task('default', function () {
-	gulp.watch('dir1/*', 'copyFiles');
+	gulp.watch('sass/*.scsss', 'sass');
 });
